@@ -375,7 +375,6 @@ function App() {
       {/* ===================================== */}
 
       <div className="pointer-events-none fixed inset-0 z-0 opacity-60">
-        
         <Scene />
       </div>
 
